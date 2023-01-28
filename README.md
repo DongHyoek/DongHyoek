@@ -11,7 +11,7 @@
 	<a href="https://www.instagram.com/uyo__h/">
 		<img src="https://img.shields.io/badge/Instagram-BA55D3?style=flat&logo=Instagram&logoColor=white" />
 	</a>
-	<a href="inuyasha0204@gmail.com">
+	<a href="malito:inuyasha0204@gmail.com">
 		<img src="https://img.shields.io/badge/GMail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 
