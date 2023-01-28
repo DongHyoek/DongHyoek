@@ -1,22 +1,75 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=006400&section=header&text=DongHyeok's%20GitHub!%20&fontColor=DAA520&animation=blink&desc=Welcome&descAlignY=85&fontSize=65&stroke=000000&strokeWidth=1)
 
-### HI ~👋 I'm Dong Hyeok Seo 😎
-##### Thank you for visiting
+#### HI ~👋 I'm Dong Hyeok Seo 😎
+##### Thank you for visiting :)
 
 ***
 
-## Profile
+### 📭Contact
 </div>
-<div align=center>
 	<a href="https://www.instagram.com/uyo__h/">
 		<img src="https://img.shields.io/badge/Instagram-BA55D3?style=flat&logo=Instagram&logoColor=white" />
 	</a>
-	<a href="malito:inuyasha0204@gmail.com">
-		<img src="https://img.shields.io/badge/GMail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	<a href="mailto:inuyasha0204@gmail.com">
+		<img src="https://img.shields.io/badge/inuyasha0204@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-
 	<br>
-  
+</div>
+
+***
+###  📚 Tech Stack 📚
+###### These are techs that I've used at least once.
+
+<div>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
+	<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Widnows-0078D6?style=flat&logo=Windows&logoColor=white" />
+</div>
+
+***
+
+### 📝 Education
+|기간|소속|전공|학위|비고|
+|-|-|-|-|-|
+|2018.03~|국민대학교|AI빅데이터융합경영학과|제1전공|재학|
+|2018.03~|국민대학교|데이터사이언스융합전공|제2전공|재학|
+|2015.03~2018.02|등촌고등학교|-|-|졸업|
+
+***
+### 🏃🏻‍♂️Extra-curricular Activity
+|경력|기간|역할|활동내용|비고|
+|-|-|-|-|-|
+|국민대학교 AI빅데이터융합경영학과 제 1대 학생회 AI:M|2021.12~2022.12|기획부원|학과 내 행사 기획 및 학생회활동|.|
+|국민대학교 빅데이터분석학회 D&A Deep Session|2022.03~2022.06|정학회원|매주 DL 조별스터디 & 과제해결|우수학회원 선정|
+|국민대학교 AI빅데이터융합경영학과 논문 스터디 X:AI Base Session 2기|2022.07~2022.08|스터디원|매주 딥러닝 논문 리뷰와 구현|.|
+|한국데이터산업진흥원 주관 2022년 마이데이터 국민참여단|2022.08~2022.09|참여단|마이데이터 교육 수강 및 서비스 사용 후 피드백 제공|.|
+|국민대학교 빅데이터분석학회 D&A Conference Session|2022.08~2022.12|정학회원|컨퍼런스 프로젝트 진행|.|
+|국내 최초 빅데이터 연합동아리 BOAZ 20기|2023.01~현재|동아리원|분석,엔지니어링 부문 Base_Session ~ ADV Session|.|
+***
+
+### 🏆 Competition
+|연도|대회명|수상|링크|
+|-|-|-|-|
+|2022|제 4회 빅스타(빅데이터,스타트업) 경진대회 장기 천연가스 수요예측 모델 개발|특별상|<a href="" target="_blank">링크</a>|
+|2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|상위 3%|<a href="" target="_blank">링크</a>|
+|2022|빅콘테스트 데이터 분석 리그 퓨처스 부문|-|<a href="" target="_blank">링크</a>|
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=DongHyoek&show_icons=true">
 <!--
 **DongHyoek/DongHyoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
