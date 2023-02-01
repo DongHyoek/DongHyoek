@@ -61,11 +61,21 @@
 ***
 
 ### 🏆 Competition
-|연도|대회명|수상|링크|
+|연도|대회명|수상|비고|
 |-|-|-|-|
 |2022|제 4회 빅스타(빅데이터,스타트업) 경진대회 장기 천연가스 수요예측 모델 개발|특별상|<a href="" target="_blank">링크</a>|
-|2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|상위 3%|<a href="" target="_blank">링크</a>|
+|2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|21위(상위3%)|<a href="" target="_blank">링크</a>|
 |2022|빅콘테스트 데이터 분석 리그 퓨처스 부문|-|<a href="" target="_blank">링크</a>|
+***
+### 💻Projects
+|주관|프로젝트명|목적|비고|
+|-|-|-|-|
+|[교내-팀] 머신러닝|Kaggle Competition|백화점 고객 데이터를 통한 성별,나이예측(분류)|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Machine_Learning_Competition" target="_blank">링크</a>/1위|
+|[교내-개인] 텍스트데이터분석|Soynlp를 활용한 유튜브 댓글 분석| 영상의 핵심 내용 요약|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Text_mining" target="_blank">링크</a>|
+|[교내-팀] 딥러닝|실시간 수어 번역 인식 모듈생성|딥러닝을 활용해 청인을 위한 수어 동작 번역 모델 생성|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Deep_Learning" target="_blank">링크</a>|
+|[교내-팀] D&A Conference|퍼스널 컬러 분류 및 메이크업 생성|Face Detection 및 Beauty GAN을 활용한 무료 메이크업 |<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Text_mining" target="_blank">링크</a>|
+|[교내-팀] 빅데이터 프로젝트: 캡스톤 디자인 II|Video Frame Interpolation 성능 향상 기법 연구|기존의 AdaCoF 모델의 구조 변경을 통한 프레임 보간 성능 향상|진행중| 
+
 
 
 
