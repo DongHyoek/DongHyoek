@@ -43,7 +43,7 @@
 
 ### 📝 Education
 |기간|소속|전공|학위|비고|
-|-|-|-|-|-|
+|:----:|:----:|:----:|:----:|:----:|
 |2018.03~|국민대학교|AI빅데이터융합경영학과|제1전공|재학|
 |2018.03~|국민대학교|데이터사이언스융합전공|제2전공|재학|
 |2015.03~2018.02|등촌고등학교|-|-|졸업|
@@ -51,7 +51,7 @@
 ***
 ### 🏃🏻‍♂️Extra-curricular Activity
 |구분|활동|기간|역할|내용|비고|
-|-|-|-|-|-|-|
+|:----:|:----:|:----:|:----:|:----:|:----:|
 |교내|국민대학교 AI빅데이터융합경영학과 제 1대 학생회 AI:M|2021.12~2022.12|기획부원|학과 내 행사 기획 및 학생회활동|.|
 |교내|국민대학교 빅데이터분석학회 D&A Deep Session|2022.03~2022.06|정학회원|매주 DL 조별스터디 & 과제해결|우수학회원 선정|
 |교내|국민대학교 AI빅데이터융합경영학과 논문 스터디 X:AI Base Session 2기|2022.07~2022.08|스터디원|매주 딥러닝 논문 리뷰와 구현|<a href="https://lightning-boron-083.notion.site/Paper-Review-58c7e9715cb34344b3b5b9ba3d51e390" target="_blank">링크</a>|
@@ -62,15 +62,16 @@
 
 ### 🏆 Competition
 |연도|대회명|수상|비고|
-|-|-|-|-|
+|:----:|:----:|:----:|:----:|
 |2022|제 4회 빅스타(빅데이터,스타트업) 경진대회 장기 천연가스 수요예측 모델 개발|특별상|<a href="https://github.com/DongHyoek/Competition/tree/main/%EC%A0%9C4%ED%9A%8C%20_%EB%B9%85%EC%8A%A4%ED%83%80_%EC%9E%A5%EA%B8%B0_%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4_%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1" target="_blank">링크</a>|
 |2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|21위(상위3%)|<a href="https://github.com/DongHyoek/Competition/tree/main/Dacon_%EC%A0%9C%EC%A3%BC%EA%B5%90%ED%86%B5%EB%9F%89_%EC%98%88%EC%B8%A1%EB%8C%80%ED%9A%8C" target="_blank">링크</a>|
 |2022|빅콘테스트 데이터 분석 리그 퓨처스 부문|-|-|
 ***
 ### 💻Projects
-|주관|분류|프로젝트명|목적|비고|
-|-|--|-|-|-|
-|[교내-팀] 머신러닝|ML|Kaggle Competition|백화점 고객 데이터를 통한 성별,나이예측(분류)|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Machine_Learning_Competition" target="_blank">링크</a>/1위|
+|주관|분야|프로젝트명|목적|비고|
+|:----:|:----:|:----:|:----:|:----:|
+|[교내-팀] 분석프로그래밍I|데이터분석|시니어 세대를 대상으로 한 마케팅 계획안|구매내역 데이터 분석을 통한 시니어 세대를 위한 마케팅 계획수립|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Machine_Learning_Competition" target="_blank">링크</a>|
+|[교내-팀] 머신러닝|ML |Kaggle Competition|백화점 고객 데이터를 통한 성별,나이예측(분류)|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Machine_Learning_Competition" target="_blank">링크</a>/1위|
 |[교내-개인] 텍스트데이터분석|NLP|Soynlp를 활용한 유튜브 댓글 분석| 영상의 핵심 내용 요약|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Text_mining" target="_blank">링크</a>|
 |[교내-팀] 딥러닝|CV|실시간 수어 번역 인식 모듈생성|딥러닝을 활용해 청인을 위한 수어 동작 번역 모델 생성|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Deep_Learning" target="_blank">링크</a>|
 |[교내-팀] D&A Conference|CV|퍼스널 컬러 분류 및 메이크업 생성|Face Detection 및 Beauty GAN을 활용한 무료 메이크업 |<a href="https://github.com/DongHyoek/Campus-Project/tree/main/D%26A_Conference" target="_blank">링크</a>|
@@ -79,7 +80,7 @@
 ***
 ### 📃Certificate
 |시험명|취득일|주관|
-|-|-|-|
+|:----:|:----:|:----:|
 |SQLD|2022-09-30|데이터자격검정|
 
 <!--
