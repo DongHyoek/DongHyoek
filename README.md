@@ -80,7 +80,7 @@
 ### 📃Certificate
 |시험명|취득일|주관|
 |-|-|-|
-|SQLD|2022-09~|데이터자격검정|
+|SQLD|2022-09-30|데이터자격검정|
 
 <!--
 **DongHyoek/DongHyoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
