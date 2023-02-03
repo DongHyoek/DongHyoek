@@ -76,8 +76,11 @@
 |[교내-팀] D&A Conference|퍼스널 컬러 분류 및 메이크업 생성|Face Detection 및 Beauty GAN을 활용한 무료 메이크업 |<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Text_mining" target="_blank">링크</a>|
 |[교내-팀] 빅데이터 프로젝트: 캡스톤 디자인 II|Video Frame Interpolation 성능 향상 기법 연구|기존의 AdaCoF 모델의 구조 변경을 통한 프레임 보간 성능 향상|논문화 진행중| 
 
-
-
+***
+### 📃Certificate
+|시험명|취득일|주관|
+|-|-|-|
+|SQLD|2022-09~|데이터자격검정|
 
 <!--
 **DongHyoek/DongHyoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
