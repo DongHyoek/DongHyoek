@@ -65,7 +65,7 @@
 |-|-|-|-|
 |2022|제 4회 빅스타(빅데이터,스타트업) 경진대회 장기 천연가스 수요예측 모델 개발|특별상|<a href="https://github.com/DongHyoek/Competition/tree/main/%EC%A0%9C4%ED%9A%8C%20_%EB%B9%85%EC%8A%A4%ED%83%80_%EC%9E%A5%EA%B8%B0_%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4_%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1" target="_blank">링크</a>|
 |2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|21위(상위3%)|<a href="https://github.com/DongHyoek/Competition/tree/main/Dacon_%EC%A0%9C%EC%A3%BC%EA%B5%90%ED%86%B5%EB%9F%89_%EC%98%88%EC%B8%A1%EB%8C%80%ED%9A%8C" target="_blank">링크</a>|
-|2022|빅콘테스트 데이터 분석 리그 퓨처스 부문|-|<a href="" target="_blank">링크</a>|
+|2022|빅콘테스트 데이터 분석 리그 퓨처스 부문|-|-|
 ***
 ### 💻Projects
 |주관|프로젝트명|목적|비고|
