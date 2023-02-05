@@ -72,7 +72,7 @@
 |:----:|:----:|:----:|:----:|:----:|
 |[교내-팀] 분석프로그래밍I|데이터분석|시니어 세대를 대상으로 한 마케팅 계획안|구매내역 데이터 분석을 통한 시니어 세대를 위한 마케팅 계획수립|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Analysis_Programming" target="_blank">링크</a>|
 |[교내-팀] 머신러닝|ML |Kaggle Competition|백화점 고객 데이터를 통한 성별,나이예측(분류)|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Machine_Learning_Competition" target="_blank">링크</a>/1위|
-|[교내-개인] 텍스트데이터분석|NLP|Soynlp를 활용한 유튜브 댓글 분석| 영상의 핵심 내용 요약|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Text_mining" target="_blank">링크</a>|
+|[교내-개인] 텍스트데이터분석|NLP|Soynlp를 활용한 유튜브 댓글 분석| 키워드 추출을 통한 영상의 핵심 내용 요약|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Text_mining" target="_blank">링크</a>|
 |[교내-팀] 딥러닝|CV|실시간 수어 번역 인식 모듈생성|딥러닝을 활용해 청인을 위한 수어 동작 번역 모델 생성|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Deep_Learning" target="_blank">링크</a>|
 |[교내-팀] D&A Conference|CV|퍼스널 컬러 분류 및 메이크업 생성|Face Detection 및 Beauty GAN을 활용한 무료 메이크업 |<a href="https://github.com/DongHyoek/Campus-Project/tree/main/D%26A_Conference" target="_blank">링크</a>|
 |[교내-팀] 빅데이터 프로젝트: 캡스톤 디자인 II|CV|Video Frame Interpolation 성능 향상 기법 연구|기존의 AdaCoF 모델의 구조 변경을 통한 프레임 보간 성능 향상|논문화 진행중| 
