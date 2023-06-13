@@ -13,6 +13,8 @@
 	<a href="mailto:inuyasha0204@gmail.com">
 		<img src="https://img.shields.io/badge/inuyasha0204@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
+	<a href="mailto:sdh1856@naver.com">
+		<img src="https://img.shields.io/badge/sdh1856@naver.com-03C75A?style=flat&logo=Naver&logoColor=white" />
 	<br>
 </div>
 
@@ -22,22 +24,25 @@
 
 <div>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=Anaconda&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
-	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
+	<img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=MicroSoftTeams&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Widnows-0078D6?style=flat&logo=Windows&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=macos&logoColor=white" />
 </div>
 
 ***
