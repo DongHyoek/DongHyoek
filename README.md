@@ -10,10 +10,10 @@
 	<a href="https://www.instagram.com/uyo__h/">
 		<img src="https://img.shields.io/badge/Instagram-BA55D3?style=flat&logo=Instagram&logoColor=white" />
 	</a>
-	<a href="mailto:inuyasha0204@gmail.com">
+	<a href="mailto:hyeoks1856@gmail.com">
 		<img src="https://img.shields.io/badge/inuyasha0204@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="mailto:sdh1856@naver.com">
+	<a href="mailto:sdh1856@korea.ac.kr">
 		<img src="https://img.shields.io/badge/sdh1856@naver.com-03C75A?style=flat&logo=Naver&logoColor=white" />
 	<br>
 </div>
