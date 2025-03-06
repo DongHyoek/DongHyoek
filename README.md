@@ -14,7 +14,7 @@
 		<img src="https://img.shields.io/badge/hyeoks1856@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="mailto:sdh1856@korea.ac.kr">
-		<img src="https://img.shields.io/badge/sdh1856@korea.ac.kr-03C75A?style=flat&logo=Naver&logoColor=red" />
+		<img src="https://img.shields.io/badge/sdh1856@korea.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=crimson" />
 	<br>
 </div>
 
