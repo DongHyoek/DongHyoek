@@ -11,10 +11,10 @@
 		<img src="https://img.shields.io/badge/Instagram-BA55D3?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	<a href="mailto:hyeoks1856@gmail.com">
-		<img src="https://img.shields.io/badge/inuyasha0204@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/hyeoks1856@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="mailto:sdh1856@korea.ac.kr">
-		<img src="https://img.shields.io/badge/sdh1856@naver.com-03C75A?style=flat&logo=Naver&logoColor=white" />
+		<img src="https://img.shields.io/badge/sdh1856@korea.ac.kr-03C75A?style=flat&logo=Naver&logoColor=white" />
 	<br>
 </div>
 
