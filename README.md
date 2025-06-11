@@ -47,11 +47,19 @@
 
 ***
 ## 📃Publications & Presentations
-- Kernel-Based Video Frame Interpolation Techniques Using Feature Map Differencing 
-*(KIPS Transactions on Software and Data Engineering, Vol. 13, No. 1, pp. 17-27, Jan. 2024)*  
-***Dong-Hyeok Seo**, Min-Seong Ko, Seung-Hak Lee, Jong-Hyuk Park* 
+- **uDART: Early Prediction for ARDS via Unsupervised Domain Adaptation** [<a href="https://github.com/DongHyoek/uDART.git" target="_blank"> Code </a>] </br>
+<sub> *2024 Spring Conference Korean Society of Medical Informatics Poster Session* </sub> </br>
+<sub> ***Dong-Hyeok Seo**, Jeung-Eul Kwon, Hyo-Kyung Lee* </sub>
 
+- **Kernel-Based Video Frame Interpolation Techniques Using Feature Map Differencing** [<a href="https://github.com/DongHyoek/SF-AdaCoF.git" target="_blank"> Code </a>] </br>
+<sub> *KIPS Transactions on Software and Data Engineering, Vol. 13, No. 1, pp. 17-27, Jan. 2024* </sub> </br>
+<sub>***Dong-Hyeok Seo**, Min-Seong Ko, Seung-Hak Lee, Jong-Hyuk Park*</sub>
 
+- **Subclassifying autism spectrum disorder: Mapping joint attention behaviors to neural connectivity using a Graph Neural Network** </br>
+<sub> *Society for Neuroscience, Neuroscience 2024 Conference Poster Session* </sub> </br>
+<sub> *C. Ko, **D.H. Seo**, Y.R. Park; Yonsei Univ., Seoul, South Korea* </sub> </br>
+
+***
 
 ## 🎓 Education
 |Period|Institution|Major|Degree|Remarks|
