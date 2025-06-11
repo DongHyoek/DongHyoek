@@ -5,7 +5,7 @@
 
 ***
 
-### 📭Contact
+## 📭Contact
 </div>
 	<a href="https://www.instagram.com/uyo__h/">
 		<img src="https://img.shields.io/badge/Instagram-BA55D3?style=flat&logo=Instagram&logoColor=white" />
@@ -19,7 +19,7 @@
 </div>
 
 ***
-###  📚 Tech Stack 📚
+##  📚 Tech Stack 📚
 ###### These are techs that I've used at least once.
 
 <div>
@@ -46,23 +46,32 @@
 </div>
 
 ***
+## 📃Publications & Presentations
+- Kernel-Based Video Frame Interpolation Techniques Using Feature Map Differencing 
+*(KIPS Transactions on Software and Data Engineering, Vol. 13, No. 1, pp. 17-27, Jan. 2024)*  
+***Dong-Hyeok Seo**, Min-Seong Ko, Seung-Hak Lee, Jong-Hyuk Park* 
 
-### 📝 Education
-|기간|소속|전공|학위|비고|
+
+
+## 🎓 Education
+|Period|Institution|Major|Degree|Remarks|
+|:------:|:-----------:|:-----:|:------:|:--------:|
+| 2025.03 - Present | Korea University | Industrial & Management Engineering | M.S. Candidate | Enrolled |
+| 2018.03 - 2024.08 | Kookmin University | AI & Big Data Convergence Management | B.S. Primary Major | Graduated |
+| 2018.03 - 2024.08 | Kookmin University | Convergence Major in Data Science | B.S. Secondary Major | Graduated |
+| 2015.03 - 2018.02 | Deungchon High School | - | - | Graduated |
+
+***
+
+## 🏆 Competition
+|Year|Competition|Host|Award|Remarks|
 |:----:|:----:|:----:|:----:|:----:|
-|2018.03~|국민대학교|AI빅데이터융합경영학과|제1전공|재학|
-|2018.03~|국민대학교|데이터사이언스융합전공|제2전공|재학|
-|2015.03~2018.02|등촌고등학교|-|-|졸업|
-
+|2024|2024 Yonsei Digital Health-care Cybersecurity Competition|Yonsei University|Best Award|-|
+|2022|Development of Long-Term Natural Gas Demand Forecasting Model|KOSMI|Special Award|<a href="https://github.com/DongHyoek/Competition/tree/main/%EC%A0%9C4%ED%9A%8C%20_%EB%B9%85%EC%8A%A4%ED%83%80_%EC%9E%A5%EA%B8%B0_%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4_%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1" target="_blank">link</a>|
+|2022|Jeju Island Road Traffic Volume Prediction AI Competition|Dacon|21st Place (Top 3%)|<a href="https://github.com/DongHyoek/Competition/tree/main/Dacon_%EC%A0%9C%EC%A3%BC%EA%B5%90%ED%86%B5%EB%9F%89_%EC%98%88%EC%B8%A1%EB%8C%80%ED%9A%8C" target="_blank">link</a>|
 ***
 
-### 🏆 Competition
-|연도|대회명|수상|비고|
-|:----:|:----:|:----:|:----:|
-|2022|제 4회 빅스타(빅데이터,스타트업) 경진대회 장기 천연가스 수요예측 모델 개발|특별상|<a href="https://github.com/DongHyoek/Competition/tree/main/%EC%A0%9C4%ED%9A%8C%20_%EB%B9%85%EC%8A%A4%ED%83%80_%EC%9E%A5%EA%B8%B0_%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4_%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1" target="_blank">링크</a>|
-|2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|21위(상위3%)|<a href="https://github.com/DongHyoek/Competition/tree/main/Dacon_%EC%A0%9C%EC%A3%BC%EA%B5%90%ED%86%B5%EB%9F%89_%EC%98%88%EC%B8%A1%EB%8C%80%ED%9A%8C" target="_blank">링크</a>|
-***
-### 💻Projects
+## 💻Related Projects
 |주관|분야|프로젝트명|목적|비고|
 |:----:|:----:|:----:|:----:|:----:|
 |[교내-팀] 분석프로그래밍I|데이터분석|시니어 세대를 대상으로 한 마케팅 계획안|구매내역 데이터 분석을 통한 시니어 세대를 위한 마케팅 계획수립|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Analysis_Programming" target="_blank">링크</a>|
