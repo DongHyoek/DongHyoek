@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=003300&section=header&text=DongHyeok's%20GitHub!%20&fontColor=DAA520&animation=blink&desc=Welcome&descAlignY=85&fontSize=65&stroke=000000&strokeWidth=1)
 
-#### HI ~👋 I'm Dong Hyeok Seo 😎
+#### HI ~👋 I'm Donghyeok Seo 😎
 ##### Thank you for visiting :)
 
 ***
 
 ## 📭Contact
+
 </div>
 	<a href="https://www.instagram.com/uyo__h/">
 		<img src="https://img.shields.io/badge/Instagram-BA55D3?style=flat&logo=Instagram&logoColor=white" />
@@ -20,6 +21,7 @@
 
 ***
 ##  📚 Tech Stack 📚
+
 ###### These are techs that I've used at least once.
 
 <div>
@@ -42,6 +44,7 @@
 
 ***
 ## 📃Publications & Presentations
+
 - **uDART: Early Prediction for ARDS via Unsupervised Domain Adaptation** [<a href="https://github.com/DongHyoek/uDART.git" target="_blank"> Code </a>] </br>
 <sub> *2024 Spring Conference Korean Society of Medical Informatics Poster Session* </sub> </br>
 <sub> ***Dong-Hyeok Seo**, Jeung-Eul Kwon, Hyo-Kyung Lee* </sub>
@@ -57,6 +60,7 @@
 ***
 
 ## 🎓 Education
+
 |Period|Institution|Major|Degree|Remarks|
 |:------:|:-----------:|:-----:|:------:|:--------:|
 | 2025.03 - Present | Korea University | Industrial & Management Engineering | M.S. Candidate | Enrolled |
@@ -67,24 +71,17 @@
 ***
 
 ## 🏆 Competition
+
 |Year|Competition|Host|Award|Remarks|
 |:----:|:----:|:----:|:----:|:----:|
 |2024|2024 Yonsei Digital Health-care Cybersecurity Competition|Yonsei University|Best Award|-|
-|2022|Development of Long-Term Natural Gas Demand Forecasting Model|KOSMI|Special Award|<a href="https://github.com/DongHyoek/Competition/tree/main/%EC%A0%9C4%ED%9A%8C%20_%EB%B9%85%EC%8A%A4%ED%83%80_%EC%9E%A5%EA%B8%B0_%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4_%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1" target="_blank">link</a>|
-|2022|Jeju Island Road Traffic Volume Prediction AI Competition|Dacon|21st Place (Top 3%)|<a href="https://github.com/DongHyoek/Competition/tree/main/Dacon_%EC%A0%9C%EC%A3%BC%EA%B5%90%ED%86%B5%EB%9F%89_%EC%98%88%EC%B8%A1%EB%8C%80%ED%9A%8C" target="_blank">link</a>|
+|2022|Development of Long-Term Natural Gas Demand Forecasting Model|KOSMI|Special Award|<a href="https://github.com/DongHyoek/Competition/tree/main/%EC%A0%9C4%ED%9A%8C%20_%EB%B9%85%EC%8A%A4%ED%83%80_%EC%9E%A5%EA%B8%B0_%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4_%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1" target="_blank">Link</a>|
+|2022|Jeju Island Road Traffic Volume Prediction AI Competition|Dacon|21st Place (Top 3%)|<a href="https://github.com/DongHyoek/Competition/tree/main/Dacon_%EC%A0%9C%EC%A3%BC%EA%B5%90%ED%86%B5%EB%9F%89_%EC%98%88%EC%B8%A1%EB%8C%80%ED%9A%8C" target="_blank">Link</a>|
 ***
 
-## 💻Related Projects
-|주관|분야|프로젝트명|목적|비고|
-|:----:|:----:|:----:|:----:|:----:|
-|[교내-팀] 분석프로그래밍I|데이터분석|시니어 세대를 대상으로 한 마케팅 계획안|구매내역 데이터 분석을 통한 시니어 세대를 위한 마케팅 계획수립|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Analysis_Programming" target="_blank">링크</a>|
-|[교내-팀] 머신러닝|ML |Kaggle Competition|백화점 고객 데이터를 통한 성별,나이예측(분류)|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Machine_Learning_Competition" target="_blank">링크</a>/1위|
-|[교내-개인] 텍스트데이터분석|NLP|Soynlp를 활용한 유튜브 댓글 분석| 키워드 추출을 통한 영상의 핵심 내용 요약|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Text_mining" target="_blank">링크</a>|
-|[교내-팀] 딥러닝|CV|실시간 수어 번역 인식 모듈생성|딥러닝을 활용해 청인을 위한 수어 동작 번역 모델 생성|<a href="https://github.com/DongHyoek/Campus-Project/tree/main/Deep_Learning" target="_blank">링크</a>|
-|[교내-팀] D&A Conference|CV|퍼스널 컬러 분류 및 메이크업 생성|Face Detection및 Beauty GAN을 활용한 퍼스널 컬러 분류 및 무료 메이크업 |<a href="https://github.com/DongHyoek/Campus-Project/tree/main/D%26A_Conference" target="_blank">링크</a>|
-|[교내-팀] 빅데이터 프로젝트: 캡스톤 디자인 II|CV|Video Frame Interpolation 성능 향상 기법 연구|기존의 AdaCoF 모델의 구조 변경을 통한 프레임 보간 성능 향상|논문화 진행중| 
-
-***
+ <p align="center">
+   <img src='https://github-readme-stats.vercel.app/api?username=DongHyoek&theme=tokyonight' height='200' width='450'>
+</p>
 
 <!--
 **DongHyoek/DongHyoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
