@@ -3,6 +3,7 @@
 #### HI ~👋 I'm Donghyeok Seo 😎
 ##### Thank you for visiting :)
 
+
 ***
 
 ## 📭Contact
@@ -59,11 +60,12 @@
 
 ***
 
-## 🎓 Education
+## 🎓 Education & 🧑🏻‍💼Careers  
 
-|Period|Institution|Major|Degree|Remarks|
+|Period|Institution|Department / Role|Position / Degree|Remarks|
 |:------:|:-----------:|:-----:|:------:|:--------:|
 | 2025.03 - Present | Korea University | Industrial & Management Engineering | M.S. Candidate | Enrolled |
+| 2023.03 - 2023.06 | SIDEWALK Entertainment| AI R&D Team | AI Researcher (Internship) | Developing Computer Vision Models | 
 | 2018.03 - 2024.08 | Kookmin University | AI & Big Data Convergence Management | B.S. Primary Major | Graduated |
 | 2018.03 - 2024.08 | Kookmin University | Convergence Major in Data Science | B.S. Secondary Major | Graduated |
 | 2015.03 - 2018.02 | Deungchon High School | - | - | Graduated |
