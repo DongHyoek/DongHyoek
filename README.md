@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=003300&section=header&text=DongHyeok's%20GitHub!%20&fontColor=DAA520&animation=blink&desc=Welcome&descAlignY=85&fontSize=65&stroke=000000&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=soft&color=003300&section=header&text=DongHyeok's%20GitHub%20&fontColor=DAA520&animation=blink&desc=Welcome!&descAlignY=85&fontSize=65&stroke=000000&strokeWidth=1)
 
 #### HI ~👋 I'm Donghyeok Seo 😎
 ##### Thank you for visiting :)
